@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(548,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (cg_proj1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  cg_proj1.vcxproj -> C:\Users\hsabd\Documents\Uni docs\CG\CG-main\Lesson 2\cg_proj2\x64\Debug\cg_proj2.exe
